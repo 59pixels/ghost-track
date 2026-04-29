@@ -9,7 +9,7 @@
 [![Wi-Fi](https://img.shields.io/badge/Standard-IEEE_802.11ax_(Wi--Fi_6)-00AEF0?style=for-the-badge&logo=wifi&logoColor=white)]()
 [![License](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge)](LICENSE)
 
-*A real-time 3D indoor human localization system that tracks people through walls using only Wi-Fi signals — no cameras, no wearables, no cloud.*
+*A real-time 3D indoor human localization system that tracks people using only Wi-Fi signals — no cameras, no wearables, no cloud.*
 
 </div>
 
@@ -73,7 +73,7 @@ The system is organized into three layers:
 │                    HARDWARE SENSING LAYER                       │
 │                                                                 │
 │   ┌──────────┐    802.11ax     ┌──────────┐  ┌──────────┐     │
-│   │  Airtel   │───Beacon/CSI──▶│  Node 1  │  │  Node 2  │     │
+│   │  Generic  │───Beacon/CSI──▶│  Node 1  │  │  Node 2  │     │
 │   │  Router   │───Beacon/CSI──▶│ (High)   │  │  (Low)   │     │
 │   │ (2.4 GHz) │───Beacon/CSI──▶│  Node 3  │  │  Node 4  │     │
 │   └──────────┘───Beacon/CSI──▶│  (Low)   │  │ (High)   │     │
