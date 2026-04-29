@@ -407,26 +407,4 @@ The four nodes are arranged in a **Zig-Zag Tetrahedron** configuration — alter
 5. Li, X. et al. (2016). *IndoTrack: Device-Free Indoor Human Tracking with CSI.* ACM UbiComp.
 
 ---
-
-## 👥 Authors
-
-**KIIT University — School of Computer Engineering**
-
-| Name | Role |
-| :--- | :--- |
-| Ratnaraj Chakraborty | System Architecture & Signal Processing |
-| Sunandan Dutta | Algorithm Implementation |
-| Saurav Ranjan | Hardware Assembly & Calibration |
-| Satyajit Das | Digital Twin & Simulation |
-| Tabib Ahmed | Testing & Validation |
-| Toufik Hasan | Documentation & Integration |
-
-**Guide:** Dr. Dayal Kumar Behera, School of Computer Engineering, KIIT University
-
----
-
-<div align="center">
-
-*Built with ❤️ at KIIT University — 2026*
-
 </div>
