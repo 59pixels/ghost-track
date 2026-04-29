@@ -258,10 +258,11 @@ Wire each node's power circuit in this exact order:
 
 ```python
 # micro-espectre/src/config_local.py (DO NOT commit this file)
+# The elements should be in this specific order or else it throws unnecessary errors 
 WIFI_SSID = "YourWiFiName"
 WIFI_PASSWORD = "YourWiFiPassword"
-MQTT_TOPIC = "home/espectre/node1"      # Change per node (node1, node2, etc.)
-MQTT_CLIENT_ID = "micro-espectre-1"     # Change per node
+MQTT_TOPIC = "home/espectre/node1"      # Change per node (node1, node2, etc.) {Does not matter as the MQTT Broker is not used} 
+MQTT_CLIENT_ID = "micro-espectre-1"     # Change per node {Does not matter as the MQTT Broker is not used}
 STREAM_DEST_IP = "192.168.1.100"        # Your laptop's local IP address
 ```
 
