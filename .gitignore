@@ -1,0 +1,67 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+*.egg
+.pytest_cache/
+.coverage
+
+# ========================
+# Virtual Environment
+# ========================
+esp32_env/
+venv/
+.env
+.venv/
+
+# ========================
+# Sensitive / Local Config
+# ========================
+secrets.yaml
+**/secrets.yaml
+config_local.py
+**/config_local.py
+
+# ========================
+# Large Binary Data
+# ========================
+*.npz
+
+# ========================
+# Build Artifacts
+# ========================
+micro-espectre/me
+3d-tracking/__pycache__/
+
+# ========================
+# IDE / Editor
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ========================
+# OS Junk
+# ========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ========================
+# Project Cleanup
+# ========================
+test_write_access.txt
+cleanup_project.ps1
+codecov.yml
+
+# ========================
+# ESPHome Local Build
+# ========================
+3d-tracking/nodes/.esphome/
