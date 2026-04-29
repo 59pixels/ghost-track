@@ -235,8 +235,8 @@ This guide walks through the complete setup — from buying parts to seeing your
 ### Step 1 — Clone & Install
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/wifi-csi-3d-localization.git
-cd wifi-csi-3d-localization
+git clone https://github.com/59pixels/ghost-track.git
+cd ghost-track
 pip install -r requirements.txt
 ```
 
