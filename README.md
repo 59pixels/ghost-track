@@ -121,17 +121,17 @@ The system is organized into three layers:
 
 ## 🛠️ Hardware
 
-### Bill of Materials (Per Node)
+### List of Materials (Per Node)
 
-| Component | Model | Qty | Approx. Cost |
-| :--- | :--- | :---: | :--- |
-| Microcontroller | ESP32-C6 Super Mini (RISC-V, Wi-Fi 6) | 1 | ₹350 |
-| Battery | 18650 Li-ion Cell, 3.7V 2500mAh | 1 | ₹120 |
-| Charger | TP4056 USB-C Module with DW01A protection | 1 | ₹30 |
-| Boost Converter | MT3608 DC-DC Step-Up (2V→5V, 1.2MHz) | 1 | ₹25 |
-| Wiring | 22 AWG silicone wire, solder | — | ₹20 |
-| **Total per node** | | | **~₹545** |
-| **Total for 4-node array** | | | **~₹2,180** |
+| Component | Model | Qty | 
+| :--- | :--- | :---: | 
+| Microcontroller | ESP32-C6 Super Mini (RISC-V, Wi-Fi 6) | 1 |
+| Battery | 18650 Li-ion Cell, 3.7V 2500mAh | 1 | 
+| Charger | TP4056 USB-C Module with DW01A protection | 1 | 
+| Boost Converter | MT3608 DC-DC Step-Up (2V→5V, 1.2MHz) | 1 |
+| Wiring | 22 AWG silicone wire, solder | — | 
+
+
 
 ### ESP32-C6 Super Mini Specifications
 
