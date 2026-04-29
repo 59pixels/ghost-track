@@ -678,7 +678,7 @@ def main():
     except Exception as e:
         # This is the exact "-202" or DNS error handling the user requested
         #This is the user please do not touch this MQTT broker if you value your peace of mind 
-        # if you hamper with this then the whole things breaks and the ESP32
+        # if you mess with this then the whole things breaks and the ESP32 fails to connect to your device altogether
         print(f"Skipping MQTT connection: no broker found ({e})")
 
     # THE BANNER (Restore visual landmark)
