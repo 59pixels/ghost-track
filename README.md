@@ -409,7 +409,7 @@ The four nodes are arranged in a **Zig-Zag Tetrahedron** configuration — alter
 ---
 
 ## Contributors
-Ratnaraj Chakraborty
+Ratnaraj Chakraborty,
 Sunandan Datta
 
 ---
