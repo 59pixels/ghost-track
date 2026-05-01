@@ -407,4 +407,11 @@ The four nodes are arranged in a **Zig-Zag Tetrahedron** configuration — alter
 5. Li, X. et al. (2016). *IndoTrack: Device-Free Indoor Human Tracking with CSI.* ACM UbiComp.
 
 ---
+
+## Contributors
+Ratnaraj Chakraborty
+Sunandan Datta
+
+---
+
 </div>
